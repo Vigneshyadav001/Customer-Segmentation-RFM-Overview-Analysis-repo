@@ -21,7 +21,7 @@ The dashboard is designed in two levels:
 ---
 
 ## Page 2 – Customer Segmentation Deep Dive
-![Page 2](Images/page2_deep_dive.png)
+![Page 2](Images/page2_overview.png)
 
 **Key Focus:**
 - Purchase recency by segment
