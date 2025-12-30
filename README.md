@@ -10,7 +10,7 @@ The dashboard is designed in two levels:
 ---
 
 ## Page 1 – Customer Segmentation Overview
-![Page 1](Images/page1_overview.png)
+![Page 1]((https://github.com/Vigneshyadav001/Customer-Segmentation-RFM-Overview-Analysis-repo/raw/main/Customer-Segmentation-RFM/Images/page1_overview.png)
 
 **Key Focus:**
 - Customer distribution by segment
